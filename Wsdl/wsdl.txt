@@ -1,0 +1,33 @@
+step-1:-file-> new ->project-> general->project( give the project name)
+
+Step2:- Right click on the project-> New->File(give file name sample.xsd)
+
+Step3:- Right click on the project-> New->File(give file name sample.wsdl)
+
+
+steo4:-select xml to conver XSD
+      ->go to https://www.freeformatter.com/xsd-generator.html#ad-output
+	  ->go to XSD generator
+      ->past xml and select XSD design
+	  ->select generate XSD
+	  ->cody XSD
+step 5: Put the name spaces under one tag
+	  
+	  
+	  
+	  
+	  
+	  
+note:-indentation---ctrl+shift+f	  
+	  
+	  
+	  
+	  
+	  wsde: body structure
+	      ->namespaces
+		  -->schema location means (xsd name)
+		  -->Message
+		  --->Porttype
+		  --->binding
+		  -->services
+note: To export wsdl from eclipse select project -> right click on project -> export -> general -> file system		  
